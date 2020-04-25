@@ -1,2 +1,1 @@
-# 1.3-activity-git-refresher
-Activity 1.3 - GitHub Refresher
+Hello, my name is Aaron, and my background is in digital banking. My career goals are to reach the c-suite level at a financial institution, most likely with the title of Chief Digital Officer. I chose this career path because I see the value in leveraging technology in the financial industry.
