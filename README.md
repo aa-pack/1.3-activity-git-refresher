@@ -1,13 +1,15 @@
-# READ ME
+# README
 
-## READ ME Description
+## README Description
 
-### READ ME Table of Contents
+### README Table of Contents
 
--[Code](code)
--[Data](data)
--[References](references)
--[Images](images)
+- [Code](code)
+- [Data](data)
+- [References](references)
+- [Images](images)
+
+![GitHub Logo](images/github-logo.jpg)
 
 Hello my name is Aaron, and my background is in digital banking. 
 
