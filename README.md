@@ -1,1 +1,1 @@
-Hello, my name is Aaron, and my background is in digital banking. My career goals are to reach the c-suite level at a financial institution, most likely with the title of Chief Digital Officer. I chose this career path because I see the value in leveraging technology in the financial industry.
+Hello, my name is Aaron, and my background is in digital banking. My career goals are to reach the c-suite level at a financial institution, or potentially create and operate a fintech. I chose this career path because I see the value in leveraging technology in the financial industry.
